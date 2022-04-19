@@ -1,0 +1,1 @@
+def registor(fname,lastname,username,password):
